@@ -1,10 +1,4 @@
-import { useRouter } from 'next/router'
-import { useEffect } from 'react/cjs/react.production.min'
-
 const A = ({ id }) => {
-  // useEffect(() => {
-  //   console.log(router.query)
-  // }, [])
   return <div>
     a/index/{id}
   </div>
