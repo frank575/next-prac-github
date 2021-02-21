@@ -1,0 +1,20 @@
+{
+  "name": "next-prac-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/frank575/next-prac-github.git",
+  "author": "吳俊緯 <wcw850710@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "antd": "^4.12.3",
+    "babel-plugin-import": "^1.13.3",
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
